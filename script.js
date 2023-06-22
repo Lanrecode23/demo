@@ -1,0 +1,1 @@
+console.log('This crappy website is open for development');
